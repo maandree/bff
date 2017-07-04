@@ -5,7 +5,13 @@ include $(CONFIGFILE)
 
 
 BIN =\
+	bff-flip\
+	bff-flop\
 	bff-premultiply\
+	bff-rotate-180\
+	bff-rotate-270\
+	bff-rotate-90\
+	bff-transpose\
 	bff-unpremultiply
 
 

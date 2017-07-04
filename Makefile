@@ -5,6 +5,7 @@ include $(CONFIGFILE)
 
 
 BIN =\
+	bff-crop\
 	bff-flip\
 	bff-flop\
 	bff-premultiply\
